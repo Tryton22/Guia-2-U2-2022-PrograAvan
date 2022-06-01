@@ -1,0 +1,52 @@
+[
+   {
+      "codigo": "A02",
+      "nombre": "En llamas",
+      "autor": "Suzanne Collins"
+   },
+   {
+      "codigo": "A03",
+      "nombre": "Escuadron",
+      "autor": "Brandon Sanderson"
+   },
+   {
+      "codigo": "A04",
+      "nombre": "It",
+      "autor": "Stephen King"
+   },
+   {
+      "codigo": "A06",
+      "nombre": "El alquimista",
+      "autor": "Paulo Coelho"
+   },
+   {
+      "codigo": "A07",
+      "nombre": "El codigo Da Vinci",
+      "autor": "Dan Browm"
+   },
+   {
+      "codigo": "A09",
+      "nombre": "Piense y hagase rico",
+      "autor": "Napoleon Hill"
+   },
+   {
+      "codigo": "A10",
+      "nombre": "El diario de Ana Frank",
+      "autor": "Anna Frank"
+   },
+   {
+      "codigo": "A11",
+      "nombre": "Boulevard",
+      "autor": "Flor M. Salvador"
+   },
+   {
+      "codigo": "A12",
+      "nombre": "El hombre de tiza",
+      "autor": "C. J. Tudor"
+   },
+   {
+      "codigo": "A13",
+      "nombre": "El principe",
+      "autor": "Nicolas Maquiavelo"
+   }
+]
